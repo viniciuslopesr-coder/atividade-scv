@@ -17,4 +17,14 @@
     <td>Desenvolvimento de agentes de IA</td>
     <td>Explorar a automação de tarefas de Engenharia de Software para uma futura disciplina optativa.</td>
   </tr>
+    <tr>
+    <td>Vinicius Lopes Rocha</td>
+    <td>
+      <a href="https://github.com/viniciuslopesr-coder">
+        github.com/viniciuslopesr-coder
+      </a>
+    </td>
+    <td>Python</td>
+    <td>Quero automatizar tarefas e trabalhar com análise de dados.</td>
+  </tr>
 </table>
